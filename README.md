@@ -7,6 +7,7 @@
 这里主要介绍几个重点技能，没什么用的技能就不写了
 * 主动技能
 1. 星光瞬移
+夜光
 ![image](https://user-images.githubusercontent.com/6283866/156515675-0685ffe0-7c59-4d6a-a323-cd762bdb21b7.png)
 2. 闪光瞬步
 ![image](https://user-images.githubusercontent.com/6283866/156515706-1de46419-0281-47e6-97a9-03be0a0c6512.png)
@@ -34,17 +35,24 @@
 ![image](https://user-images.githubusercontent.com/6283866/156516212-ea7655bb-82e2-4842-bcb0-96d721030435.png)
 BUFF技能
 1. 魔力护盾
+主要用途，可以挡三次昏迷类型的控制技能，比如斯乌的掉落物晕，大眼的蓝球晕，打大眼比较实用，天黑之前开一次
 ![image](https://user-images.githubusercontent.com/6283866/156516269-4bf0def1-b5bd-4efc-9cb0-a5e2a5b3f042.png)
-2. 团队精神
+2. 团队精神，单纯的buff
 ![image](https://user-images.githubusercontent.com/6283866/156516412-30da1989-063c-44a1-bddc-ef6b40c6d3a6.png)
-3. 枫叶祝福
+3. 枫叶祝福，单纯的buff
 ![image](https://user-images.githubusercontent.com/6283866/156516467-7e7849ec-48d7-4569-ab12-75e40e49960e.png)
-4. 极速吟唱
+4. 极速吟唱，单纯的buff，夜光初始速度5速，加了这个以后只需要-1速就可以达到满速，一般选择吃绿药
 ![image](https://user-images.githubusercontent.com/6283866/156516536-a7310524-34da-4df3-a348-4a4df7dfca45.png)
-5. 黑暗魔心
+5. 黑暗魔心，buff
 ![image](https://user-images.githubusercontent.com/6283866/156516600-5ca080a8-4f53-4573-88fe-dfa8ef75de96.png)
-6. 实用的会心之眼
+6. 实用的会心之眼，暴击爆伤buff
 ![image](https://user-images.githubusercontent.com/6283866/156515885-2f9c3e50-1670-4115-be73-0bb0c5d7e9a3.png)
+7. 光明力量，被动技能，可以无视关灯效果（老黑P2和血腥女皇打中后的效果）
+![image](https://user-images.githubusercontent.com/6283866/156522062-104dcc76-c9b7-4725-87af-d63ad28ff467.png)
+
+## 完美核心
+两核三技，非常简单
+![image](https://user-images.githubusercontent.com/6283866/156521446-b50ec0c3-93e7-4316-9e1b-a7bbd66c9294.png)
 ## TMS夜光的优点
 1. 生存强
 2. 装备便宜
