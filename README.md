@@ -7,7 +7,7 @@
 夜光法师的输出方式就是尽最大可能保证平衡状态的覆盖率，在平衡状态下，夜光的机动性、输出都能得到很大的提升  
 黑平衡状态![image](https://user-images.githubusercontent.com/6283866/156951261-b946da29-8713-4dbf-bbd3-cea769eb1aa9.png)
 白平衡状态![image](https://user-images.githubusercontent.com/6283866/156951160-fb2d46d1-fccd-49a8-8002-e0f9c87d0ac1.png)  
-![image](https://user-images.githubusercontent.com/6283866/156951182-5b255110-92b7-4b46-abe5-a2c71fcaef2b.png)
+平衡：![image](https://user-images.githubusercontent.com/6283866/156951182-5b255110-92b7-4b46-abe5-a2c71fcaef2b.png)  
 这里主要介绍几个重点技能，没什么用的技能就不写了  
 * 主动技能
 1. 星光瞬移  
