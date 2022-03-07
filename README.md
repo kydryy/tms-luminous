@@ -4,34 +4,38 @@
 ## 目的
 主要是为了介绍一些夜光法师的技能使用和装备搭配等，都是自己一点见解，很多地方可能不对，会慢慢更新
 ## 夜光法师的技能
-这里主要介绍几个重点技能，没什么用的技能就不写了
+夜光法师的输出方式就是尽最大可能保证平衡状态的覆盖率，在平衡状态下，夜光的机动性、输出都能得到很大的提升  
+黑平衡状态![image](https://user-images.githubusercontent.com/6283866/156951125-97e04695-ee40-46f9-aff4-1fbaa2afc86b.png)
+白平衡状态![image](https://user-images.githubusercontent.com/6283866/156951160-fb2d46d1-fccd-49a8-8002-e0f9c87d0ac1.png)  
+![image](https://user-images.githubusercontent.com/6283866/156951182-5b255110-92b7-4b46-abe5-a2c71fcaef2b.png)
+这里主要介绍几个重点技能，没什么用的技能就不写了  
 * 主动技能
 1. 星光瞬移  
-夜光
+夜光打某些boss特别好用的瞬移技能，比如斯乌和队长。瞬移距离特别远  
 ![image](https://user-images.githubusercontent.com/6283866/156515675-0685ffe0-7c59-4d6a-a323-cd762bdb21b7.png)
 2. 闪光瞬步  
 ![image](https://user-images.githubusercontent.com/6283866/156515706-1de46419-0281-47e6-97a9-03be0a0c6512.png)
-3. 极速反射  
+3. 极速反射，主要的升级使用技能，Y轴非常大  
 ![image](https://user-images.githubusercontent.com/6283866/156515770-53ba9bb9-8c49-4015-aced-11ac40120e31.png)
 4. 暗影烈焰  
 ![image](https://user-images.githubusercontent.com/6283866/156515791-1b9d5343-ff73-48fd-80c3-4c68ab043a6c.png)
-5. 绝对击杀  
+5. 绝对击杀，主要的BOSS输出技能，平衡状态下无CD并且100%暴击，无视防御40%，也是夜光仅需93无视的原因之一  
 ![image](https://user-images.githubusercontent.com/6283866/156515812-14b0a14a-17da-4aad-82e1-8e86f7ea4b32.png)
-6. 连接绳索  
+6. 连接绳索，现版本夜光无上跳瞬移距离近，非常需要的上跳技能  
 ![image](https://user-images.githubusercontent.com/6283866/156515850-8783a575-1cb1-406f-8c17-2183f56fbbbe.png)
-7. 瞬移  
+7. 瞬移，非常重要的浮空真泰山，增加真希拉、大眼、黑魔法师等boss的生存能力  
 ![image](https://user-images.githubusercontent.com/6283866/156515926-769e1971-8cb5-4681-b616-abb923b9bb08.png)
-8. 普力特的祝福  
+8. 普力特的祝福，英雄团职业最强力的技能，叠满以后30秒无敌  
 ![image](https://user-images.githubusercontent.com/6283866/156515986-3d158407-bca6-44f4-b803-a0de9086691b.png)
-9. 真理之门  
+9. 真理之门，V1，刷图时使用的放置技能  
 ![image](https://user-images.githubusercontent.com/6283866/156516064-f7bf03d3-8023-4323-8b25-c4c80239d648.png)
-10. 混沌共鸣  
+10. 混沌共鸣，V2，重要的刷图技能和打BOSS技能，可以持续回复天上  
 ![image](https://user-images.githubusercontent.com/6283866/156516091-e1a8ce0b-4633-4d6e-a2be-3639212ddfdb.png)
-11. 光与暗的洗礼  
+11. 光与暗的洗礼，V3，最重要的输出技能，绝对击杀12次以后就会重置CD  
 ![image](https://user-images.githubusercontent.com/6283866/156516136-1c6f5ed5-2e1d-4e36-9cf5-371910a181d3.png)
-12. 解放宝珠  
+12. 解放宝珠，V4，输出占比5%的爆发技能，聊胜于无吧  
 ![image](https://user-images.githubusercontent.com/6283866/156516166-c0f9462b-cb2e-47aa-98ac-d2f8e6c18775.png)
-13. 虚无形态  
+13. 虚无形态，法师通用无敌，虽然是假无敌，但是在当前环境来说除了真希拉和老黑的机制杀，他可以抵挡一切伤害性的秒杀技能，是法师生存能力的保障技能  
 ![image](https://user-images.githubusercontent.com/6283866/156516212-ea7655bb-82e2-4842-bcb0-96d721030435.png)
 BUFF技能
 1. 魔力护盾  
